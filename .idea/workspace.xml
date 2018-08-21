@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e51b2d40-3adb-466a-975f-6b4423e9bee9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/example/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/example/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/example/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/server/target/" />
@@ -16,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Greeter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Greeter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/src/main/java/com/example/Greeter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -25,6 +26,15 @@
                 <element signature="e#236#237#0" expanded="true" />
                 <element signature="e#289#290#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/example/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -38,6 +48,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/server/src/main/java/com/example/Greeter.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/example/package-info.java" />
       </list>
     </option>
   </component>
@@ -74,6 +85,36 @@
               <item name="maven-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="maven-project" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-project" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-project" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-project" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-project" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,7 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534813595570</updated>
-      <workItem from="1534813610104" duration="902000" />
+      <workItem from="1534813610104" duration="1093000" />
     </task>
     <task id="LOCAL-00001" summary="* first one">
       <created>1534813880842</created>
@@ -168,7 +209,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="902000" />
+    <option name="totallyTimeSpent" value="1093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -224,6 +265,13 @@
             <element signature="e#236#237#0" expanded="true" />
             <element signature="e#289#290#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/example/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
